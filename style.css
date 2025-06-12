@@ -1,0 +1,162 @@
+*{
+    margin:0;
+padding:0;
+}
+body{
+    /*background-image: url(https://img.freepik.com/free-vector/abstract-musical-sound-waves-design-background_1048-20072.jpg?semt=ais_items_boosted&w=740);
+        background-size: cover;              /* Cover the full screen */
+ /* background-position: center center;  /* Center the image */
+ /* background-repeat: no-repeat;        /* Don't repeat */
+ /* background-attachment: fixed;        /*Optional parallax effect */
+ /* margin: 0;                        /*    Remove default margin */
+/*  padding: 0;
+  height: 100vh;  */
+  
+   
+}
+.he{
+    background-color: black;
+    height:200px;
+    width:1100px;
+
+}
+.top{
+    margin-top:40px;
+}
+.she{
+   /* background-color: black;*/
+    height:250px;
+    width:1300px;
+    margin-right: 60px;
+     background-image: url(https://media.istockphoto.com/id/678535734/photo/dark-background-table-top-copy-space.jpg?s=612x612&w=0&k=20&c=9x05KMGvpqp748jiYpveZWKFXa-TyeC94qf0_o9gCDk=);
+        background-size:cover;             /* Cover the full screen */
+  background-position: center center;  /* Center the image */
+  background-repeat: no-repeat;        /* Don't repeat */
+  background-attachment:local;        /* Optional parallax effect */
+  display:flex;
+  gap:60px;
+  border-top: 4px;
+  border-color: grey;
+
+
+}
+
+.title{
+    font-size: large;
+    font-size: 60px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color:white;
+    margin-bottom: 0px;
+    height:90px;
+    width:fit-content;
+    margin-left: 600px;
+
+    
+}
+.leftside{
+    background-color: black;
+    width:150px;
+    height:1200px;
+}
+#a{
+    width:280px;
+    margin-left:20px;
+  
+}
+#p{
+    display:flex;
+    gap:15px;
+}
+h2{
+    color:white;
+}
+h1{
+    color:white;
+}
+#left{
+    color:white;
+}
+.song{
+    color:white;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.search{
+    height:30px;
+    width:270px;
+    font-size: medium;
+    color:rgb(232, 109, 109);
+    font-weight: 200;
+    font-style: oblique;
+
+}
+.head{
+
+    background-image: url(https://media.istockphoto.com/id/678535734/photo/dark-background-table-top-copy-space.jpg?s=612x612&w=0&k=20&c=9x05KMGvpqp748jiYpveZWKFXa-TyeC94qf0_o9gCDk=);
+        background-size:cover;             /* Cover the full screen */
+  background-position: center center;  /* Center the image */
+  background-repeat: no-repeat;        /* Don't repeat */
+  background-attachment:local;       /* Optional parallax effect */
+  margin: 0;                           /* Remove default margin */
+  padding: 0;
+  height:90px;  
+}
+.icon{
+    font-size: 30px;
+}
+.screen{
+    display:flex;
+  /*  justify-content: space-between;*/
+    gap:400px;
+}
+.img{
+    height:150px;
+    width:150px;
+    border-width: 8px;
+    border-radius: 4px;
+    border-color: rgb(13, 13, 13);
+    object-fit:cover;
+    
+}
+    .bon{
+        margin-left: 1380px;
+        display:flex;
+        justify-content: space-between;
+        gap:15px;
+        color:white;
+        
+    }
+    #o{
+        display:flex;
+        gap:50px;
+
+    }
+  
+#bon{
+    margin: 0;
+    padding:0;
+    text-decoration-color: white;
+    text-align: center;
+      color:white;
+    background-color: rgb(103, 101, 101);
+        height:30px;
+        width:80px;
+        font-size: 16px;
+        font-style: italic;
+
+    
+}
+
+
+.layout{
+    width: 330px;
+    height:530px;
+    margin:20px;
+    padding:20px;
+    background-color:black;
+    /*margin-left: 600px;*/
+    }
+   
+
