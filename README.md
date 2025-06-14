@@ -12,3 +12,7 @@ A sleek and modern audiobook player featuring a visual music library, song searc
 
 🔐 Sign In / Register buttons for user access (UI-ready)
 ![Screenshot 2025-06-13 023025](https://github.com/user-attachments/assets/2df02331-e6e5-469c-8a58-688b404c4c8b)
+
+
+https://github.com/user-attachments/assets/49e07c42-2ba4-47bb-8cdf-3f303b7ce7c9
+
